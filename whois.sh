@@ -1,5 +1,4 @@
 #!/bin/bash
-
 input="ipList.txt"
   while IFS= read -r line 
     do
